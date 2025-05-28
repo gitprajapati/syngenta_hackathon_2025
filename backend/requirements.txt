@@ -1,0 +1,17 @@
+bcrypt
+fastapi
+uvicorn
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+pydantic[email]
+pypdf
+langchain-community
+langchain_experimental
+faiss-cpu
+python-multipart
+langgraph
+langchain-groq
